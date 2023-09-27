@@ -1,5 +1,5 @@
 <?php
-class TodoUser
+class User
 {
     private  $users_array = [
         [
